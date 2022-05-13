@@ -1,7 +1,7 @@
 {
     "name": "Rock Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/0d0cd252270861a6838ce.png",
+    "logo": "https://telegra.ph/file/9a39e0592e6088e525032.png",
     "keywords": [
     "python3",
     "telegram",
